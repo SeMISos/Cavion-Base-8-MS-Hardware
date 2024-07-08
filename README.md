@@ -3,7 +3,7 @@ Hardware
 
 |Component       |Name                             |Info                           |
 |----------------|---------------------------------|-------------------------------|
-| CPU            |Intel Atom Z3735G                |<a href="https://www.intel.com/content/www/us/en/products/sku/80275/intel-atom-processor-z3735g-2m-cache-up-to-1-83-ghz/specifications.html">>                        |
+| CPU            |Intel Atom Z3735G                |<a href="https://www.intel.com/content/www/us/en/products/sku/80275/intel-atom-processor-z3735g-2m-cache-up-to-1-83-ghz/specifications.html">Intel Site</a>                        |
 | LOC            |2,289                            |284                            |
 | Interface      |Command-line args with some GUI  |Walkthrough-based with some GUI|
 | GUI toolkit    |X                                |tk                             |
